@@ -45,4 +45,28 @@ Maven,
 | User 3 | User N   |
 +-------------------+
 
+
+## How to Run
+
+### Backend
+1. Open the Spring Boot project.
+2. Run the application.
+3. The server starts on `http://localhost:8080`.
+
+### Frontend
+1. Navigate to the frontend folder:
+   ```bash
+   cd front-chat
+
+ 2.  Install dependencies:
+    
+npm install
+
+3.Start the development server:
+
+npm run dev
+
+4.Open the URL shown in the terminal (usually http://localhost:5173)
+
+
 Project Status: Successfully developed and tested in a local development environment. Deployment to a cloud platform has not been implemented yet.
