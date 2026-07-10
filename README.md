@@ -24,4 +24,25 @@ CSS3,
 JavaScript,
 Maven,
 
+
++-------------------+
+|      Client       |
+| HTML, CSS, JS     |
++---------+---------+
+          |
+          | WebSocket (STOMP)
+          |
++---------v---------+
+|   Spring Boot     |
+|  WebSocket Server |
++---------+---------+
+          |
+          | Message Broadcast
+          |
++---------v---------+
+| Connected Clients |
+| User 1 | User 2   |
+| User 3 | User N   |
++-------------------+
+
 Project Status: Successfully developed and tested in a local development environment. Deployment to a cloud platform has not been implemented yet.
