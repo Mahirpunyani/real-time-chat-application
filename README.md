@@ -6,22 +6,22 @@ The backend is developed with Spring Boot and uses WebSocket with the STOMP mess
 This project demonstrates key concepts of event-driven architecture, client-server communication, WebSocket integration, and real-time data exchange. It also showcases the implementation of RESTful APIs, dependency management using Maven, and the development of scalable web applications with Spring Boot.
 
 Key Features -
-Real-time messaging using WebSocket
-STOMP protocol for efficient message exchange
-Multi-user chat support
-Instant message broadcasting
-Responsive and user-friendly interface
-Spring Boot-based backend
+Real-time messaging using WebSocket,
+STOMP protocol for efficient message exchange,
+Multi-user chat support,
+Instant message broadcasting,
+Responsive and user-friendly interface,
+Spring Boot-based backend,
 Maven for dependency management
 
 Technologies Used-
-Java
-Spring Boot
-Spring WebSocket
-STOMP
-HTML5
-CSS3
-JavaScript
-Maven
+Java,
+Spring Boot,
+Spring WebSocket,
+STOMP,
+HTML5,
+CSS3,
+JavaScript,
+Maven,
 
 Project Status: Successfully developed and tested in a local development environment. Deployment to a cloud platform has not been implemented yet.
